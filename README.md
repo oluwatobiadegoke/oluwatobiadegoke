@@ -1,6 +1,6 @@
 # Hi, I'm Tobi 👋
 
-I'm a product engineer in Lagos. I build banking and health software.
+I'm a product engineer in Lagos. I build useful software, lately in banking and health.
 
 Most of my work is in private repos, so this page looks quieter than my week does.
 
